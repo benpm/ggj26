@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://capholwcf4565"]
+
+[node name="scene" type="Node2D" unique_id=1757439489]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=1050400083]
