@@ -15,6 +15,14 @@ run/main_scene="uid://capholwcf4565"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
+[aseprite]
+
+import/import_plugin/default_automatic_importer="SpriteFrames"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/AsepriteWizard/plugin.cfg")
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
